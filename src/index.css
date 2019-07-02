@@ -11,3 +11,87 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.App {
+  margin: 50px;
+  width: 800px;
+  
+}
+img {
+  width: 20px;
+  height: 20px;
+}
+
+span {
+  margin: 10px;
+  font-size: 25px;
+  
+}
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+/* .gain-arrow {
+  
+  border-bottom: solid 10px green ;
+  border-left: solid 10px transparent;
+  border-right: solid 10px transparent;
+  
+} */
+/* .card-body {
+  display: flex;
+  flex-direction: row;
+  width: 100%; 
+  float:left;
+  border: 1px solid black;
+  
+}
+.card {
+  margin: 10px;
+}
+.column {
+  display: flex;
+  float:left;
+  background-color: 'red'
+
+} */
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  background-color: DodgerBlue;
+  width: 1690px;
+
+ 
+}
+.client-card{
+  background-color: #f1f1f1;
+  margin: 30px;
+  
+  font-size: 20px;
+  width: 500px;
+  height: auto;
+ 
+}
+.body {
+  border-bottom: 1px groove black;
+
+}
+/* Clear floats after the columns */
+p {
+  display: inline;
+  margin: 20px;
+  font-size: 20px;
+}
+

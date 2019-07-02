@@ -1,0 +1,3171 @@
+{
+  "data": {
+    "relationshipManagers": [
+      { 
+        "id": "1",
+        "appliedIdea": {
+          "id": "1",
+          "name": "Idea_1"
+        },
+        "firstName": "Mary",
+        "lastName": "Mackay",
+        "photoUrl": null,
+        "targetRevenue": 1140000,
+        "prospectsCount": 100,
+        "clientsCount": 34,
+        "currency": {
+          "isoCode": "USD",
+          "displayName": null,
+          "name": "USD"
+        },
+        "pastRevenues": [
+          {
+            "revenue": 50000,
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 45000,
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 52000,
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 48000,
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 50000,
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 51000,
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 57000,
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 42000,
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 40000,
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 55000,
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          }
+        ],
+        "aums": [
+          {
+            "aum": 103293.63,
+            "asOfDate": "2019-03-10T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "USD"
+            }
+          }
+        ],
+        "pastCommissions": [
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 52000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 52000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 52000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 52000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          }
+        ],
+        "clients": {
+          "totalCount": 9,
+          "totalPages": 1,
+          "pageCursors": {
+            "all": [
+              {
+                "page": 1,
+                "cursor": "",
+                "isCurrent": true
+              }
+            ],
+            "previous": {
+              "page": 0,
+              "cursor": "LTEw",
+              "isCurrent": false
+            }
+          },
+          "pageInfo": {
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "endCursor": "OQ",
+            "startCursor": "MQ"
+          },
+          "nodes": [
+            {
+              "id": "81",
+              "firstName": "USD_GOAL_SGD_INV_1",
+              "lastName": "Wilshere",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Silver",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 13866.28,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 3535.97,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 9722.49,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 2552.62,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1253.6,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 3232.48,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "72",
+              "firstName": "C",
+              "lastName": "Novis",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 20037.57,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 17802.24,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 7227.85,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 2250.98,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1297.31,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 1912.25,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "144",
+              "firstName": "FundsIn_Test_UsdGoal",
+              "lastName": "Claypole",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 15722.57,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 4391.27,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 5878.34,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 811.35,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1655.32,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 2824.02,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "75",
+              "firstName": "Single_Goal_Sgd2",
+              "lastName": "McKenzie",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Platinum",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 8883.3,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 15777.77,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 17710.12,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 4362.54,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1952.17,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 4118.34,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "58",
+              "firstName": "Amarnath04",
+              "lastName": "Conquest",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 8628.32,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 2347.88,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 15052.19,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 4275.43,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 2054.27,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 3470.55,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "86",
+              "firstName": "Sgd_Inv_Usd_Goal_1",
+              "lastName": "Worg",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Silver",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 12904.23,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 15827.42,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 11110.59,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 3551.51,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 2309.74,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 4107.86,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "137",
+              "firstName": "Sgd_Inv_Sgd_Goal_2",
+              "lastName": "Klimus",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 8481.64,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 18071.34,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 20233.68,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 616.75,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 2463.72,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 6774.26,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "76",
+              "firstName": "Single_Goal_Usd",
+              "lastName": "Bea",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 6885.45,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 6006.72,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 6311.71,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 4509.03,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 3814.22,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 6886.26,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "141",
+              "firstName": "Goal Based No FX",
+              "lastName": "Roy",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 9192.69,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 13760.11,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 10921.51,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 3118.76,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 3887.98,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 6860.27,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "appliedIdea": {
+          "id": "1",
+          "name": "Idea_1"
+        },
+        "firstName": "Something",
+        "lastName": "Mackay",
+        "photoUrl": null,
+        "targetRevenue": 1240000,
+        "prospectsCount": 100,
+        "clientsCount": 34,
+        "currency": {
+          "isoCode": "USD",
+          "displayName": null,
+          "name": "USD"
+        },
+        "pastRevenues": [
+          {
+            "revenue": 40000,
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 45000,
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 52000,
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 48000,
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 50000,
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 51000,
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 57000,
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 42000,
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 40000,
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 55000,
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          }
+        ],
+        "aums": [
+          {
+            "aum": 103293.63,
+            "asOfDate": "2019-03-10T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "USD"
+            }
+          }
+        ],
+        "pastCommissions": [
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 52000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 52000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 52000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 52000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          }
+        ],
+        "clients": {
+          "totalCount": 9,
+          "totalPages": 1,
+          "pageCursors": {
+            "all": [
+              {
+                "page": 1,
+                "cursor": "",
+                "isCurrent": true
+              }
+            ],
+            "previous": {
+              "page": 0,
+              "cursor": "LTEw",
+              "isCurrent": false
+            }
+          },
+          "pageInfo": {
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "endCursor": "OQ",
+            "startCursor": "MQ"
+          },
+          "nodes": [
+            {
+              "id": "82",
+              "firstName": "USD_GOAL_SGD_INV_1",
+              "lastName": "Wilshere",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Silver",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 13866.28,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 3535.97,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 9722.49,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 2552.62,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1253.6,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 3232.48,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "72",
+              "firstName": "C",
+              "lastName": "Novis",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 20037.57,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 17802.24,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 7227.85,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 2250.98,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1297.31,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 1912.25,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "144",
+              "firstName": "FundsIn_Test_UsdGoal",
+              "lastName": "Claypole",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 15722.57,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 4391.27,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 5878.34,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 811.35,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1655.32,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 2824.02,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "75",
+              "firstName": "Single_Goal_Sgd2",
+              "lastName": "McKenzie",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Platinum",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 8883.3,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 15777.77,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 17710.12,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 4362.54,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1952.17,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 4118.34,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "58",
+              "firstName": "Amarnath04",
+              "lastName": "Conquest",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 8628.32,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 2347.88,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 15052.19,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 4275.43,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 2054.27,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 3470.55,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "86",
+              "firstName": "Sgd_Inv_Usd_Goal_1",
+              "lastName": "Worg",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Silver",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 12904.23,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 15827.42,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 11110.59,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 3551.51,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 2309.74,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 4107.86,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "137",
+              "firstName": "Sgd_Inv_Sgd_Goal_2",
+              "lastName": "Klimus",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 8481.64,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 18071.34,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 20233.68,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 616.75,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 2463.72,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 6774.26,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "76",
+              "firstName": "Single_Goal_Usd",
+              "lastName": "Bea",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 6885.45,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 6006.72,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 6311.71,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 4509.03,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 3814.22,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 6886.26,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "141",
+              "firstName": "Goal Based No FX",
+              "lastName": "Roy",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 9192.69,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 13760.11,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 10921.51,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 3118.76,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 3887.98,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 6860.27,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "appliedIdea": {
+          "id": "1",
+          "name": "Idea_1"
+        },
+        "firstName": "Danny",
+        "lastName": "Mackay",
+        "photoUrl": null,
+        "targetRevenue": 1340000,
+        "prospectsCount": 100,
+        "clientsCount": 34,
+        "currency": {
+          "isoCode": "USD",
+          "displayName": null,
+          "name": "USD"
+        },
+        "pastRevenues": [
+          {
+            "revenue": 50000,
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 45000,
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 52000,
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 48000,
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 50000,
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 51000,
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 57000,
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 52000,
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 50000,
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "revenue": 55000,
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          }
+        ],
+        "aums": [
+          {
+            "aum": 103293.63,
+            "asOfDate": "2019-03-10T00:00:00.000+00:00",
+            "currency": {
+              "isoCode": "USD"
+            }
+          }
+        ],
+        "pastCommissions": [
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 60000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 52000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "DIY Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 52000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "RM Passive",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-01-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-02-28T00:00:00.000+00:00",
+            "commission": 45000,
+            "fromDate": "2018-02-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-03-28T00:00:00.000+00:00",
+            "commission": 52000,
+            "fromDate": "2018-03-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-04-28T00:00:00.000+00:00",
+            "commission": 48000,
+            "fromDate": "2018-04-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-05-28T00:00:00.000+00:00",
+            "commission": 50000,
+            "fromDate": "2018-05-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-06-28T00:00:00.000+00:00",
+            "commission": 51000,
+            "fromDate": "2018-06-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 57000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-01-28T00:00:00.000+00:00",
+            "commission": 42000,
+            "fromDate": "2018-07-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-08-28T00:00:00.000+00:00",
+            "commission": 40000,
+            "fromDate": "2018-08-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          },
+          {
+            "toDate": "2018-09-28T00:00:00.000+00:00",
+            "commission": 55000,
+            "fromDate": "2018-09-01T00:00:00.000+00:00",
+            "groupByValue": "RM Thematic",
+            "currency": {
+              "isoCode": "SGD"
+            }
+          }
+        ],
+        "clients": {
+          "totalCount": 9,
+          "totalPages": 1,
+          "pageCursors": {
+            "all": [
+              {
+                "page": 1,
+                "cursor": "",
+                "isCurrent": true
+              }
+            ],
+            "previous": {
+              "page": 0,
+              "cursor": "LTEw",
+              "isCurrent": false
+            }
+          },
+          "pageInfo": {
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "endCursor": "OQ",
+            "startCursor": "MQ"
+          },
+          "nodes": [
+            {
+              "id": "83",
+              "firstName": "USD_GOAL_SGD_INV_1",
+              "lastName": "Wilshere",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Silver",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 13866.28,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 3535.97,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 9722.49,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 2552.62,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1253.6,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 3232.48,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "72",
+              "firstName": "C",
+              "lastName": "Novis",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 20037.57,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 17802.24,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 7227.85,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 2250.98,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1297.31,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 1912.25,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "144",
+              "firstName": "FundsIn_Test_UsdGoal",
+              "lastName": "Claypole",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 15722.57,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 4391.27,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 5878.34,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 811.35,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1655.32,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 2824.02,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "75",
+              "firstName": "Single_Goal_Sgd2",
+              "lastName": "McKenzie",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Platinum",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 8883.3,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 15777.77,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 17710.12,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 4362.54,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 1952.17,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 4118.34,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "58",
+              "firstName": "Amarnath04",
+              "lastName": "Conquest",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 8628.32,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 2347.88,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 15052.19,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 4275.43,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 2054.27,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 3470.55,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "86",
+              "firstName": "Sgd_Inv_Usd_Goal_1",
+              "lastName": "Worg",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Silver",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 12904.23,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 15827.42,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 11110.59,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 3551.51,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 2309.74,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 4107.86,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "137",
+              "firstName": "Sgd_Inv_Sgd_Goal_2",
+              "lastName": "Klimus",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 8481.64,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 18071.34,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 20233.68,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 616.75,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 2463.72,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 6774.26,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "76",
+              "firstName": "Single_Goal_Usd",
+              "lastName": "Bea",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 6885.45,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 6006.72,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 6311.71,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 4509.03,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 3814.22,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 6886.26,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "141",
+              "firstName": "Goal Based No FX",
+              "lastName": "Roy",
+              "displayName": null,
+              "accountNumber": null,
+              "lastActivityDate": "2019-01-01T00:00:00.000+00:00",
+              "investorSegment": "Gold",
+              "consolidatedPortfolio": {
+                "portfolioPerformance": {
+                  "cashBalances": [
+                    {
+                      "value": 9192.69,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "MYR"
+                      }
+                    },
+                    {
+                      "value": 13760.11,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "SGD"
+                      }
+                    },
+                    {
+                      "value": 10921.51,
+                      "currency": {
+                        "id": null,
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "cumulativeCashBalance": {
+                    "value": 3118.76,
+                    "currency": {
+                      "id": null,
+                      "isoCode": "USD"
+                    }
+                  },
+                  "aums": [
+                    {
+                      "aum": 3887.98,
+                      "asOfDate": "2019-03-10T00:00:00.000+00:00",
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ],
+                  "gain": [
+                    {
+                      "fromDate": null,
+                      "toDate": null,
+                      "value": 6860.27,
+                      "currency": {
+                        "isoCode": "USD"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
