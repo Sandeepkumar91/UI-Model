@@ -1,8 +1,7 @@
 import React from 'react'
-import Highcharts from 'highcharts/highstock'
-import HighchartsReact from 'highcharts-react-official'
+import ReactHighcharts from 'react-highcharts';
 
-const options = {
+const config = {
   title: {
     text: 'My stock chart'
   },
@@ -11,10 +10,14 @@ const options = {
   }]
 }
 
-const MyStockChart = () => <HighchartsReact
-  highcharts={Highcharts}
-  constructorType={'stockChart'}
-  options={options}
-/>
+const MyStockChart = () => {
+return(
+  <div className='container'>
+  <ReactHighcharts
+  config = {config}
+  />
+</div>
+) 
+}
 
 export default MyStockChart

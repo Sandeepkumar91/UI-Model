@@ -1,16 +1,14 @@
 import React from 'react';
 import DisplayData from './DisplayData';
-import ClientTable from './ClientTable'
-import { BrowserRouter as Router, Route } from "react-router-dom";
-
+import ClientTable from './ClientTable';
+import MyStockChart from './MyStockChart';
+import BarChart from './BarChart'
 
 function App() {
   return (
       <div className="App">
-       <Router>
-					<Route path="/" exact component={DisplayData} />
-					<Route path="/clients"  component={ClientTable} />
-				</Router>
+       <MyStockChart />
+       <BarChart />
       </div>
     
   );
