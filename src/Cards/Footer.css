@@ -1,0 +1,33 @@
+.footer {
+    height: 50px;
+    width: 1024px;
+    background-color: lightgrey;
+    display: flex;
+}
+.screen {
+    width: 180px;
+    height: 50px;
+    position: relative;
+    text-align: center;
+    border-right: 1px solid grey;
+    background-color: rgba(246, 246, 246, 0.75)
+}
+.Home  {
+    width: 31px; 
+    height: 31px;
+    position: absolute;
+    left: 25px;
+    top: 10px;
+}
+.name {
+
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-family: 'Lato-Bold';
+    position: absolute;
+    left: 67px;
+    top: 17px;
+    margin: 0px; 
+    color: rgb(158, 160, 165)
+}

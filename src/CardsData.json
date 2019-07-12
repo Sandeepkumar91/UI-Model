@@ -1,0 +1,41 @@
+{
+    "cards": [
+        { 
+            "id": "1",
+            "image": "./assets/goalHome.png",
+            "title": "My Home",
+            "description": "Suspendisse faucibus, augue nec euismod tem, dui neque molestie, laoreet faucibus ipsumh."
+        },
+        {
+            "id": "2",
+            "image": "./assets/goalRain.png",
+            "title": "A Rainy Day",
+            "description": "Suspendisse faucibus, augue nec euismod tem, dui neque molestie, laoreet faucibus ipsumr."
+        },
+        {
+            "id": "3",
+            "image": "./assets/goalBigSpend.png",
+            "title": "A Big Spend",
+            "description": "Suspendisse faucibus, augue nec euismod tem, dui neque molestie, laoreet faucibus ipsumb."
+        },
+        {    "id": "4",
+            "image": "./assets/goalEducation.png",
+            "title": "Children's Education",
+            "description": "Suspendisse faucibus, augue nec euismod tem, dui neque molestie, laoreet faucibus ipsumc."
+        },
+        {
+            "id": "5",
+            "image": "./assets/goalRetirement.png",
+            "title": "Retirement",
+            "description": "Suspendisse faucibus, augue nec euismod tem, dui neque molestie, laoreet faucibus ipsumr."
+        },
+        {
+            "id": "6",
+            "image": "./assets/goalGeneralInvest.png",
+            "title": "General Investment",
+            "description": "Suspendisse faucibus, augue nec euismod tem, dui neque molestie, laoreet faucibus ipsumg."
+        }
+
+
+    ]
+}
