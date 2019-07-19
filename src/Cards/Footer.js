@@ -20,7 +20,7 @@ class Footer extends Component {
                 </div>
                 <div className='screen investment'>
                     <img src={ InvestmentLogo } alt='investment' className='Home'/>
-                    <span className='name'>Investment</span>
+                    <span className='investment-name'>Investment</span>
                 </div>
                 <div className='screen client'>
                     <img src={ MyClientsLogo } alt='client' className='Home'/>

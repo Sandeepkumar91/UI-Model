@@ -31,3 +31,14 @@
     margin: 0px; 
     color: rgb(158, 160, 165)
 }
+.investment-name{
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-family: 'Lato-Bold';
+    position: absolute;
+    left: 67px;
+    top: 17px;
+    margin: 0px; 
+    color: rgb(255, 97, 0);
+}

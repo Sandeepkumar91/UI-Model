@@ -8,12 +8,12 @@ class Landing extends Component {
     render() {
         return (
             <div className='landing-section'>
-                <p className='landing-option'>Strategy</p>
-                <p className='landing-option'>Bond</p>
-                <p className='landing-option'>Fund</p>
-                <p className='landing-option'>Goal-based</p>
-                <p className='landing-option'>Customized</p>
-                <p className='landing-option'>Equity</p>
+                <div className='landing-option'>Strategy</div>
+                <div className='landing-option'>Bond</div>
+                <div className='landing-option'>Fund</div>
+                <div className='landing-option-goal-box'>Goal-based</div>
+                <div className='landing-option'>Customized</div>
+                <div className='landing-option'>Equity</div>
                 <div className='filter-icon'>
                  <img className='filter' alt='filter' src={FilterIcon}/>
                 </div>
